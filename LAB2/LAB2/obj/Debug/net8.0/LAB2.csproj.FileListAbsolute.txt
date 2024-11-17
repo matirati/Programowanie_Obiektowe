@@ -1,0 +1,14 @@
+C:\Users\w69792\source\repos\LAB2\LAB2\bin\Debug\net8.0\LAB2.exe
+C:\Users\w69792\source\repos\LAB2\LAB2\bin\Debug\net8.0\LAB2.deps.json
+C:\Users\w69792\source\repos\LAB2\LAB2\bin\Debug\net8.0\LAB2.runtimeconfig.json
+C:\Users\w69792\source\repos\LAB2\LAB2\bin\Debug\net8.0\LAB2.dll
+C:\Users\w69792\source\repos\LAB2\LAB2\bin\Debug\net8.0\LAB2.pdb
+C:\Users\w69792\source\repos\LAB2\LAB2\obj\Debug\net8.0\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w69792\source\repos\LAB2\LAB2\obj\Debug\net8.0\LAB2.AssemblyInfoInputs.cache
+C:\Users\w69792\source\repos\LAB2\LAB2\obj\Debug\net8.0\LAB2.AssemblyInfo.cs
+C:\Users\w69792\source\repos\LAB2\LAB2\obj\Debug\net8.0\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\w69792\source\repos\LAB2\LAB2\obj\Debug\net8.0\LAB2.dll
+C:\Users\w69792\source\repos\LAB2\LAB2\obj\Debug\net8.0\refint\LAB2.dll
+C:\Users\w69792\source\repos\LAB2\LAB2\obj\Debug\net8.0\LAB2.pdb
+C:\Users\w69792\source\repos\LAB2\LAB2\obj\Debug\net8.0\LAB2.genruntimeconfig.cache
+C:\Users\w69792\source\repos\LAB2\LAB2\obj\Debug\net8.0\ref\LAB2.dll
