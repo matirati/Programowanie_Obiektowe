@@ -1,0 +1,14 @@
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\bin\Debug\net8.0\Lab_4-7_Zadania.exe
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\bin\Debug\net8.0\Lab_4-7_Zadania.deps.json
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\bin\Debug\net8.0\Lab_4-7_Zadania.runtimeconfig.json
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\bin\Debug\net8.0\Lab_4-7_Zadania.dll
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\bin\Debug\net8.0\Lab_4-7_Zadania.pdb
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7_Zadania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7_Zadania.AssemblyInfoInputs.cache
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7_Zadania.AssemblyInfo.cs
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7_Zadania.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7_Zadania.dll
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\refint\Lab_4-7_Zadania.dll
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7_Zadania.pdb
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7_Zadania.genruntimeconfig.cache
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\ref\Lab_4-7_Zadania.dll

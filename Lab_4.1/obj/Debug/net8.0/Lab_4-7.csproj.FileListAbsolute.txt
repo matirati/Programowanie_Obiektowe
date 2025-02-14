@@ -1,0 +1,14 @@
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\bin\Debug\net8.0\Lab_4-7.exe
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\bin\Debug\net8.0\Lab_4-7.deps.json
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\bin\Debug\net8.0\Lab_4-7.runtimeconfig.json
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\bin\Debug\net8.0\Lab_4-7.dll
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\bin\Debug\net8.0\Lab_4-7.pdb
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7.AssemblyInfoInputs.cache
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7.AssemblyInfo.cs
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7.dll
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\refint\Lab_4-7.dll
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7.pdb
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\Lab_4-7.genruntimeconfig.cache
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_4-7\obj\Debug\net8.0\ref\Lab_4-7.dll
