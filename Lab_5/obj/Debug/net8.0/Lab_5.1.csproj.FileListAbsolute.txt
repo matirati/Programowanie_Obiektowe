@@ -1,0 +1,14 @@
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\obj\Debug\net8.0\Lab_5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\obj\Debug\net8.0\Lab_5.1.AssemblyInfoInputs.cache
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\obj\Debug\net8.0\Lab_5.1.AssemblyInfo.cs
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\obj\Debug\net8.0\Lab_5.1.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\bin\Debug\net8.0\Lab_5.1.exe
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\bin\Debug\net8.0\Lab_5.1.deps.json
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\bin\Debug\net8.0\Lab_5.1.runtimeconfig.json
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\bin\Debug\net8.0\Lab_5.1.dll
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\bin\Debug\net8.0\Lab_5.1.pdb
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\obj\Debug\net8.0\Lab_5.1.dll
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\obj\Debug\net8.0\refint\Lab_5.1.dll
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\obj\Debug\net8.0\Lab_5.1.pdb
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\obj\Debug\net8.0\Lab_5.1.genruntimeconfig.cache
+C:\Users\Mateusz Jarema\Documents\Lab_4-7\Lab_5.1\obj\Debug\net8.0\ref\Lab_5.1.dll
