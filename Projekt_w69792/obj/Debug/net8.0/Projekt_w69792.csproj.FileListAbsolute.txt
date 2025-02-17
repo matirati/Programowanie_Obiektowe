@@ -1,0 +1,14 @@
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\bin\Debug\net8.0\Projekt_w69792.exe
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\bin\Debug\net8.0\Projekt_w69792.deps.json
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\bin\Debug\net8.0\Projekt_w69792.runtimeconfig.json
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\bin\Debug\net8.0\Projekt_w69792.dll
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\bin\Debug\net8.0\Projekt_w69792.pdb
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\obj\Debug\net8.0\Projekt_w69792.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\obj\Debug\net8.0\Projekt_w69792.AssemblyInfoInputs.cache
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\obj\Debug\net8.0\Projekt_w69792.AssemblyInfo.cs
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\obj\Debug\net8.0\Projekt_w69792.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\obj\Debug\net8.0\Projekt_w69792.dll
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\obj\Debug\net8.0\refint\Projekt_w69792.dll
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\obj\Debug\net8.0\Projekt_w69792.pdb
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\obj\Debug\net8.0\Projekt_w69792.genruntimeconfig.cache
+C:\Users\Mateusz Jarema\Documents\Projekt_w69792\Projekt_w69792\obj\Debug\net8.0\ref\Projekt_w69792.dll

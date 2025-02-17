@@ -1,0 +1,7 @@
+Kawa,Inka,8,7
+Herbata,Cytrynowa,4,6
+Sok,Jabłkowy,5,11
+Kawa,Nescafe,7,78
+Herbata,Owocowa,4,20
+Herbata,Imbirowa,5,5
+Sok,Ogórkowy,2,10
